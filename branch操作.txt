@@ -1,0 +1,14 @@
+1. New branch
+git branch <branch name>
+
+2. Branch new name
+git branch -m <old name> <new name>
+
+3. Switch branch
+git checkout <branch name>
+
+4. Switch branch but the bach hasn't be established
+git checkout -b <branch name>
+
+5. Merge branch (branch at master)
+git merge <branch name>
